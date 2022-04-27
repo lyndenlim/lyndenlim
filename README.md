@@ -1,12 +1,13 @@
-<div align="center"><h1> Hi there 👋</h1></div>
+<div align="center"><h1> Hi, I'm Lynden</h1></div>
 
 <div align="center">
 I'm currently learning about data structures and algorithms. 
+  
+Ask me about React, JavaScript, Ruby, Rails, and SQL.
 
 You can reach me at lyndenlim15@gmail.com. <br/>
 Alternatively you can use the contact form on my site, https://lyndenlim.github.io/.
 
-Ask me about React, JavaScript, Ruby, Rails, and SQL.
 </div>
 
 <div align="center">
