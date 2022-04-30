@@ -1,17 +1,21 @@
-<div align="center"><h1> Hi, I'm Lynden</h1></div>
-
 <div align="center">
-I'm currently learning about data structures and algorithms. 
-  
-Ask me about React, JavaScript, Ruby, Rails, and SQL.
-
-You can reach me at lyndenlim15@gmail.com. <br/>
-Alternatively you can use the contact form on my site, https://lyndenlim.github.io/.
-
+  <h1> Hi, I'm Lynden</h1>
+  <h3>  Software Engineer currently looking for employment opportunities</h3>
 </div>
 
+
+<div>
+  <ul >
+    <li>I'm currently learning about <strong>data structures and algorithms</strong>. </li>
+    <li>Ask me about <strong>React, JavaScript, and Rails</strong>.</li>
+    <li>You can reach me at <a href="mailto:lyndenlim15@gmail.com">lyndenlim15@gmail.com</a>. </li>
+    <li>Alternatively you can use the contact form on my site, https://lyndenlim.github.io/.</li>
+  </ul>
+</div>
+
+
 <div align="center">
-  <h2> 🧰 Languages and Tools </h2>
+  <h3>   🧰 Languages and Tools</h3>
 <p>
 <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:6px"></a>
   <a href="https://reactjs.org/">
