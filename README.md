@@ -38,13 +38,13 @@
 
 <hr/>
 
-<div>
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyndenlim&theme=dark" alt="github-streak"/>
-    &nbsp;
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=lyndenlim&theme=dark" alt="github-stats"/>
-  </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyndenlim&theme=dark" alt="github-streak"/>
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lyndenlim&theme=dark" alt="github-stats"/>
 </div>
 <br/>
 <div align="center">
