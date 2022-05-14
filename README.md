@@ -44,10 +44,6 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lyndenlim&theme=dark" alt="github-stats"/>
-</div>
-<br/>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyndenlim&theme=dark&exclude_repo=inventory-tracker-website,inventory-tracker-executable&hide=scss&layout=compact" alt="top-languages"/>
 </div>
 
