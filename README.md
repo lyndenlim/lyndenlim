@@ -9,7 +9,7 @@
     <li>I'm currently learning about <strong>data structures and algorithms</strong>. </li>
     <li>Ask me about <strong>React and JavaScript</strong>.</li>
     <li>You can reach me at <a href="mailto:lyndenlim15@gmail.com">lyndenlim15@gmail.com</a>. </li>
-    <li>Alternatively you can use the contact form on my site, https://lyndenlim.github.io/.</li>
+    <li>Check out my portfolio, https://lyndenlim.github.io/.</li>
   </ul>
 </div>
 
