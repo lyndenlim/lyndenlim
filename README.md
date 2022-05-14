@@ -7,7 +7,7 @@
 <div>
   <ul >
     <li>I'm currently learning about <strong>data structures and algorithms</strong>. </li>
-    <li>Ask me about <strong>React, JavaScript, and Rails</strong>.</li>
+    <li>Ask me about <strong>React and JavaScript</strong>.</li>
     <li>You can reach me at <a href="mailto:lyndenlim15@gmail.com">lyndenlim15@gmail.com</a>. </li>
     <li>Alternatively you can use the contact form on my site, https://lyndenlim.github.io/.</li>
   </ul>
@@ -15,7 +15,7 @@
 
 
 <div align="center">
-  <h3>   🧰 Languages and Tools</h3>
+  <h3>  🧰 Languages and Tools</h3>
 <p>
 <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:6px"></a>
   <a href="https://reactjs.org/">
@@ -34,8 +34,20 @@
   <a href="https://expressjs.com/">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express" height="40" style="vertical-align:top; margin:6px"></a>
 </p>
-  </div>
-  
+</div>
+
+<hr/>
+
 <div>
-[![Lynden's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyndenlim)](https://github.com/lyndenlim/github-readme-stats)
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyndenlim&theme=dark" alt="github-streak"/>
+    &nbsp;
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=lyndenlim&theme=dark" alt="github-stats"/>
   </div>
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyndenlim&theme=dark&exclude_repo=inventory-tracker-website,inventory-tracker-executable&hide=scss&layout=compact" alt="top-languages"/>
+</div>
+
