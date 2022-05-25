@@ -6,7 +6,7 @@
 
 <div>
   <ul >
-    <li>I'm currently learning <strong>TypeScript</strong>. </li>
+    <li>I'm currently learning <strong>GraphQL and Hasura</strong>. </li>
     <li>Ask me about <strong>React and JavaScript</strong>.</li>
     <li>You can reach me at <a href="mailto:lyndenlim15@gmail.com">lyndenlim15@gmail.com</a>. </li>
     <li>Check out my portfolio, https://lyndenlim.github.io.</li>
