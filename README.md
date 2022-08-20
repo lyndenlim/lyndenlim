@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hi, I'm Lynden</h1>
-  <h3>  Software Engineer currently looking for employment opportunities</h3>
+  <h3>  Software Engineer based in NYC</h3>
 </div>
 
 
