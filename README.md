@@ -3,16 +3,6 @@
   <h3>  Software Engineer based in NYC</h3>
 </div>
 
-
-<div>
-  <ul >
-    <li>In my free time, I'm working on projects using the MERN stack.</li>
-    <li>You can reach me at <a href="mailto:lyndenlim15@gmail.com">lyndenlim15@gmail.com</a>. </li>
-    <li>Check out my portfolio, https://lyndenlim.github.io.</li>
-  </ul>
-</div>
-
-
 <div align="center">
   <h3>  🧰 Languages and Tools</h3>
 <p>
